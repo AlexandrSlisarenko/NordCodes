@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+.vscode/
+# jar приложения не коммитим: он передаётся отдельно вместе с заданием
+app/*.jar
+allure-report/
